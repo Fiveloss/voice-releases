@@ -1,0 +1,9 @@
+{
+  "version": "0.1.2",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.2/voice-windows-x64.zip",
+  "sha256": "d93034f870348d81b9ed655999cc56c26af1306cd30e845e0080b86dc4a91b27",
+  "notes": [
+    "CI: переменная CMAKE перекрывает путь из .cargo/config.toml, версия 0.1.2"
+  ],
+  "published": "2026-11-09T20:32:50Z"
+}
