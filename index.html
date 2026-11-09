@@ -33,6 +33,7 @@
   .btn:hover { background: var(--accent-hover); }
   .btn:active { transform: scale(.98); }
   .btn[aria-disabled="true"] { opacity: .4; pointer-events: none; }
+  .meta a { color: var(--muted); }
   .meta { margin-top: 14px; font: 13px "Cascadia Mono", Consolas, monospace; }
   ul { margin: 24px 0 0; padding: 0; list-style: none; text-align: left; color: var(--muted); font-size: 14px; }
   li { padding: 6px 0; border-top: 1px solid var(--line); }
@@ -45,8 +46,9 @@
     <img src="logo.png" alt="">
     <h1>Voice</h1>
     <p>Голос и демка напрямую, без лишнего.</p>
-    <a id="dl" class="btn" aria-disabled="true" href="#">Скачать для Windows</a>
+    <a id="dl" class="btn" aria-disabled="true" href="#">Скачать установщик для Windows</a>
     <p id="meta" class="meta">Загружаем версию…</p>
+    <p class="meta"><a id="zip" href="#" hidden>Архив без установки (zip)</a></p>
     <ul id="notes" hidden></ul>
   </div>
 </main>
@@ -55,13 +57,15 @@
     .then(r => r.json())
     .then(v => {
       const dl = document.getElementById("dl");
-      dl.href = v.url; dl.removeAttribute("aria-disabled");
+      dl.href = v.installer_url || v.url; dl.removeAttribute("aria-disabled");
       document.getElementById("meta").textContent =
         "v" + v.version + " · " + v.published.slice(0, 10);
       const ul = document.getElementById("notes");
       (v.notes || []).slice(0, 8).forEach(n => {
         const li = document.createElement("li"); li.textContent = n; ul.append(li);
       });
+      const zip = document.getElementById("zip");
+      if (v.installer_url) { zip.href = v.url; zip.hidden = false; }
       ul.hidden = !ul.children.length;
     })
     .catch(() => { document.getElementById("meta").textContent = "Версия пока не опубликована"; });
