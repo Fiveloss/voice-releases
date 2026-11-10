@@ -1,11 +1,15 @@
 {
-  "version": "0.1.7",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.7/voice-windows-x64.zip",
-  "sha256": "0017b5ccd841921b1346e705accea2c37da351fbe35d678827e17d4b67751954",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.7/voice-setup.exe",
-  "installer_sha256": "2622f3ed6bcfcaa81d7ce5ae0798a5048cfe17f8dc088cc9b9945d82fedd4173",
+  "version": "0.1.8",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.8/voice-windows-x64.zip",
+  "sha256": "fd316f7104a8785f6d5236dd5376fdd96add3d8764fccd1164ac44908675f8c9",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.8/voice-setup.exe",
+  "installer_sha256": "5a96019121726ccc6875db8f79bc361384788e777e5aac167c2ccc23136b6b97",
   "notes": [
-    "Версия 0.1.7: демка внутри окна, баннеры 7–8 и баннер друга в списке"
+    "Версия 0.1.8: настройки демки в приложении, обрезка аватара, плашка обновления, шапка друга",
+    "Демка: окно приложения ждём до запуска цикла событий, иначе у просмотра нет родителя",
+    "Окна без перетаскивания, баннеры листаются отдельно, обрезка аватара в окне, убран фон карточки",
+    "Плашка обновления капсулой в заголовке, проверка обновлений в «О приложении», новая шапка друга",
+    "Демка: настройки сохраняются и подставляются в окно выбора, убран приоритет"
   ],
-  "published": "2026-11-10T10:42:05Z"
+  "published": "2026-11-10T11:32:55Z"
 }
