@@ -1,13 +1,11 @@
 {
-  "version": "0.1.6",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.6/voice-windows-x64.zip",
-  "sha256": "19f4d81c71d3c7f6cf06fb79b2e607398699de57ed32fefdbeef16a847b13c52",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.6/voice-setup.exe",
-  "installer_sha256": "7585afc9cf49cc84e8a4103ede12b1e1c6666236cc9ace5e57eb3d06ba96c703",
+  "version": "0.1.7",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.7/voice-windows-x64.zip",
+  "sha256": "0017b5ccd841921b1346e705accea2c37da351fbe35d678827e17d4b67751954",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.7/voice-setup.exe",
+  "installer_sha256": "2622f3ed6bcfcaa81d7ce5ae0798a5048cfe17f8dc088cc9b9945d82fedd4173",
   "notes": [
-    "Версия 0.1.6",
-    "Вход на новом ПК: сервер отдаёт друзей и постоянную историю чата",
-    "Аккаунты: вход по нику и паролю, профиль, поиск по нику, аватар и баннеры"
+    "Версия 0.1.7: демка внутри окна, баннеры 7–8 и баннер друга в списке"
   ],
-  "published": "2026-11-10T09:58:56Z"
+  "published": "2026-11-10T10:42:05Z"
 }
