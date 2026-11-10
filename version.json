@@ -1,11 +1,13 @@
 {
-  "version": "0.1.5",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.5/voice-windows-x64.zip",
-  "sha256": "f7372c9733398081a67f0a83ef445bcdaac6703c78ed96034fdb0a703d485dc6",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.5/voice-setup.exe",
-  "installer_sha256": "ce6856e29224c6161c085ecf423b518373143d610e866dbe1e442b80ea52261b",
+  "version": "0.1.6",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.6/voice-windows-x64.zip",
+  "sha256": "19f4d81c71d3c7f6cf06fb79b2e607398699de57ed32fefdbeef16a847b13c52",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.6/voice-setup.exe",
+  "installer_sha256": "7585afc9cf49cc84e8a4103ede12b1e1c6666236cc9ace5e57eb3d06ba96c703",
   "notes": [
-    "Название Voice везде, настройки на всё окно как в Discord с Esc, вкладка «О приложении», версия 0.1.5"
+    "Версия 0.1.6",
+    "Вход на новом ПК: сервер отдаёт друзей и постоянную историю чата",
+    "Аккаунты: вход по нику и паролю, профиль, поиск по нику, аватар и баннеры"
   ],
-  "published": "2026-11-09T23:14:29Z"
+  "published": "2026-11-10T09:58:56Z"
 }
