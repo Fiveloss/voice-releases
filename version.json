@@ -1,14 +1,16 @@
 {
-  "version": "0.1.12",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.12/voice-windows-x64.zip",
-  "sha256": "c3b08b428b5a25d6894d3f8c1241a2af6b9c467dce3162524fcee5be7dd80670",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.12/voice-setup.exe",
-  "installer_sha256": "bd0ad56c0dbad2deeeb47bf5517698c7b19a8829936e03a844b6f325df559021",
+  "version": "0.1.13",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.13/voice-windows-x64.zip",
+  "sha256": "36ed7d77e41c2833c8f5d06a19570a5f49143884aff19e1c316881330f4cf401",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.13/voice-setup.exe",
+  "installer_sha256": "7445083b82cefde7b1047f1d08d84263f15c27815dd4ac8e9fd13f20f332fd34",
   "notes": [
-    "Версия 0.1.12: панели вместо окон, режимы демки, фикс пропадания после обновления",
-    "Окна, демка и обновление: исправления из чатов 10 ноября",
-    "Звук: подряд дорисовывать не больше 20 мс в любой дыре, вход после тишины плавный",
-    "Звук: не дорисовывать речь после конца фразы — Deep PLC выдумывал голоса и мычание"
+    "Версия 0.1.13: демка без зависаний на 144 FPS, AV1/HEVC на AMD, звуки и индикатор демки, полный экран",
+    "Демка: после полного экрана окно перерисовывается целиком",
+    "Демка: звуки включения и выключения, индикатор — капсула, рамка «В ЭФИРЕ» на дорожке",
+    "Демка: полный экран перекрывает панель задач",
+    "Демка: пробный кадр 640×360 — AMF HEVC и AV1 на 256×144 не запускались",
+    "Демка: видео без придержки str0m, битрейт по потерям, пропуск кадра до кодирования"
   ],
-  "published": "2026-11-10T14:32:54Z"
+  "published": "2026-11-10T16:00:18Z"
 }
