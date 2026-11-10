@@ -1,11 +1,14 @@
 {
-  "version": "0.1.9",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.9/voice-windows-x64.zip",
-  "sha256": "04d8f6e059c06e844ce28bc97cd543b782d6e9670307760b1a46fca52dc14ca9",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.9/voice-setup.exe",
-  "installer_sha256": "e7af4d5a0c4fa8156f3c74c6b2e35e40123864046fcd3e0944d55887b7a4d1c8",
+  "version": "0.1.10",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.10/voice-windows-x64.zip",
+  "sha256": "1b0b6309f30c11e13ee7b1b357bd043a2f4b9ddafa9529be090aaef54f13ac34",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.10/voice-setup.exe",
+  "installer_sha256": "6350862a7c9eef5febea0f16712f5d0aa20bf494b703f747b915fcffde1617fe",
   "notes": [
-    "Версия 0.1.9: битрейт демки не падает ниже нижней границы по разрешению и FPS"
+    "Версия 0.1.10: звонки через TURN без исчерпания квоты, окно всегда показывается",
+    "Тест повторов при 2 % потерь: отвечает на запрос ключевого кадра",
+    "Окно: показ только через Slint, самопроверка после старта и логи показа",
+    "Звонки: адрес TURN освобождается надёжно, квота coturn с запасом"
   ],
-  "published": "2026-11-10T11:36:43Z"
+  "published": "2026-11-10T12:43:18Z"
 }
