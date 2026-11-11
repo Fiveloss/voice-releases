@@ -1,13 +1,13 @@
 {
-  "version": "0.1.18",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.18/voice-windows-x64.zip",
-  "sha256": "9fb54d418937d64d21051af8a9b5497b6a0d15f829b2a6ff182d495110b76295",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.18/voice-setup.exe",
-  "installer_sha256": "e38c0c2e9699714a0fcf7a89e363673fa0d604800726422c8d9e99ee247d1084",
+  "version": "0.1.19",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.19/voice-windows-x64.zip",
+  "sha256": "0507124441ab0b259d7de5490f135e0ec8dacedb2c69a27ab8fd786121eec458",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.19/voice-setup.exe",
+  "installer_sha256": "ada0e72ce07581f26de52a819786de48064cc876d91e55d19057039057bc7c84",
   "notes": [
-    "Версия 0.1.18: общее окно Modal, кнопка «Смотреть» в дорожке, смена источника демки на ходу, профиль и «Играет в …»",
-    "Общее окно Modal, профиль и активность друзей, вход на демку кнопкой в дорожке",
-    "Анимированные аватарки: GIF и WebP сжимаются в GIF до 48 КБ, кадры листаются в Avatar"
+    "Версия 0.1.19: Esc в чате на главную, копирование ника, шапка друга карточкой, ровное окно настроек",
+    "Modal: в маленьком окне содержимое карточки прокручивается, а не обрезается",
+    "ui-gallery: убран вызов удалённого peer-share-text (CI)"
   ],
-  "published": "2026-11-11T19:19:44Z"
+  "published": "2026-11-11T20:11:04Z"
 }
