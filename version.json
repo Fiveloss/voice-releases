@@ -1,13 +1,17 @@
 {
-  "version": "0.1.15",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.15/voice-windows-x64.zip",
-  "sha256": "b8967149368c5767483033c775236c2f097644311258dd02a808a9a4172179ab",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.15/voice-setup.exe",
-  "installer_sha256": "c3bb62690ff3c0cb3dbd43d7466d918279ff21718ba1b147df33a1b97ba597dc",
+  "version": "0.1.16",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.16/voice-windows-x64.zip",
+  "sha256": "2469a8e34d8955f2a812ca5e9e7bad0f813e55635a87772edd4677941b9ae174",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.16/voice-setup.exe",
+  "installer_sha256": "37f6add0e144bfd6d8e703152e7b7650f92ab1f02b0764f23dcfd71adc66831d",
   "notes": [
-    "Версия 0.1.15: свой баннер профиля, «Недавнее» на главной",
-    "Свой баннер профиля (картинка и GIF), «Недавнее» на главной, шрифт Segoe UI",
-    "Анимации: мягкая кривая, появление экранов и вкладок, отклик кнопок"
+    "Версия 0.1.16: дизайн-ревизия, громкость как в Discord, свёрнутый звонок, демка друга без фризов",
+    "Демка друга: str0m ждёт перезапрошенные пакеты всего ключевого кадра, а не 30",
+    "Свёрнутый звонок: панель внизу слева, в звонке можно открыть любой чат",
+    "Громкость как в Discord: меню по правому клику на собеседнике и динамик для демки",
+    "Звонок с демкой: картинка занимает свободную высоту, плашки участников не слипаются",
+    "Дизайн-ревизия: веса и шкалы по сетке, спокойные списки, починка ленты чата и Esc в клавишах",
+    "Дизайн-ревизия: список правок интерфейса"
   ],
-  "published": "2026-11-11T12:21:52Z"
+  "published": "2026-11-11T13:17:00Z"
 }
