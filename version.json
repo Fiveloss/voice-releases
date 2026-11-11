@@ -1,18 +1,13 @@
 {
-  "version": "0.1.14",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.14/voice-windows-x64.zip",
-  "sha256": "a61aa79ff319910f30c4a603ac72d20e0d24f96efb7b3edec5ca3fdd5ef5a083",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.14/voice-setup.exe",
-  "installer_sha256": "37570cab3969b4af99f09cfd7adaaa84ccbcc4e389d8809660ca620b7e9320ce",
+  "version": "0.1.15",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.15/voice-windows-x64.zip",
+  "sha256": "b8967149368c5767483033c775236c2f097644311258dd02a808a9a4172179ab",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.15/voice-setup.exe",
+  "installer_sha256": "c3bb62690ff3c0cb3dbd43d7466d918279ff21718ba1b147df33a1b97ba597dc",
   "notes": [
-    "Версия 0.1.14: меню друга, пропущенные звонки, потери в звонке, тихий входящий, настройки без заглушек",
-    "Настройки: активация во вкладке «Звук», все клавиши на одной вкладке",
-    "Входящий звонок: окно не всплывает, мигает панель задач, звонок тише",
-    "Звонок: потери пакетов и пометка плохой связи",
-    "Чат: пропущенные звонки",
-    "Друзья: меню по правому клику и удаление из друзей",
-    "Настройки: relay, трей и автозапуск работают, заглушки убраны",
-    "Выкладка: релиз с ветки по новой версии в Cargo.toml, тег ставится сам"
+    "Версия 0.1.15: свой баннер профиля, «Недавнее» на главной",
+    "Свой баннер профиля (картинка и GIF), «Недавнее» на главной, шрифт Segoe UI",
+    "Анимации: мягкая кривая, появление экранов и вкладок, отклик кнопок"
   ],
-  "published": "2026-11-10T17:17:37Z"
+  "published": "2026-11-11T12:21:52Z"
 }
