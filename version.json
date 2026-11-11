@@ -1,13 +1,15 @@
 {
-  "version": "0.1.19",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.19/voice-windows-x64.zip",
-  "sha256": "0507124441ab0b259d7de5490f135e0ec8dacedb2c69a27ab8fd786121eec458",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.19/voice-setup.exe",
-  "installer_sha256": "ada0e72ce07581f26de52a819786de48064cc876d91e55d19057039057bc7c84",
-  "notes": [
-    "Версия 0.1.19: Esc в чате на главную, копирование ника, шапка друга карточкой, ровное окно настроек",
-    "Modal: в маленьком окне содержимое карточки прокручивается, а не обрезается",
-    "ui-gallery: убран вызов удалённого peer-share-text (CI)"
-  ],
-  "published": "2026-11-11T20:11:04Z"
+    "version":  "0.1.20",
+    "url":  "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.20/voice-windows-x64.zip",
+    "sha256":  "6af30f2f727d7490626ef08966d67ef3aaff1dd7f602648a581f8525438e6a16",
+    "installer_url":  "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.20/voice-setup.exe",
+    "installer_sha256":  "bb15e53287a7b98b5cb0a3f0c4664a690b8b1ad35c764831da485f4bb5625f50",
+    "notes":  [
+                  "CI и релиз на своём сборщике voice-pc: без очереди и с тёплой папкой сборки",
+                  "Версия 0.1.20: своё лицо — янтарь только за голосом, мини-волна, строка связи словами, шрифт Golos Text",
+                  "Дизайн: мини-волна, строка связи словами, шрифт Golos Text",
+                  "Дизайн: раскладка звонка с демкой, «+» у списка друзей, пульс входящего",
+                  "Дизайн: янтарь только за голосом, плоский список друзей, баннеры только в профиле"
+              ],
+    "published":  "2026-11-11T21:47:17Z"
 }
