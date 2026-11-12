@@ -1,12 +1,14 @@
 {
-  "version": "0.1.21",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.21/voice-windows-x64.zip",
-  "sha256": "3aec4c6970e5f0d2ee859c2c433d910bb49810cb4b98e9e0f3f52e008db10d75",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.21/voice-setup.exe",
-  "installer_sha256": "65d12e3526b769460b2e7fb20da9214626c80d4d620da7afe7bc6c9e42063ba6",
+  "version": "0.1.22",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.22/voice-windows-x64.zip",
+  "sha256": "a5e8f5962845906210dd42a7719ec22d15bd34a245e5c271c7798b8c714b4316",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.22/voice-setup.exe",
+  "installer_sha256": "8bfb24b1b634914ca76e093aa0f133568333098e07e4ad8d0fb8a547b3469a5b",
   "notes": [
-    "Сборщик: последовательная сборка и PowerShell 7 для релиза",
-    "Версия 0.1.21: заявки в боковой панели и GIF во время звонка"
+    "Версия 0.1.22: демка при смене разрешения и удаление друга во время звонка",
+    "Исправлены смена разрешения демки и статус звонка после удаления друга",
+    "Панель сборщика: запуск локального скрипта без изменения политики Windows",
+    "Панель сборщика: настраиваемый общий лимит CPU"
   ],
-  "published": "2026-11-12T14:35:02Z"
+  "published": "2026-11-12T15:38:18Z"
 }
