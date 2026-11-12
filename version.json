@@ -1,15 +1,12 @@
 {
-    "version":  "0.1.20",
-    "url":  "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.20/voice-windows-x64.zip",
-    "sha256":  "6af30f2f727d7490626ef08966d67ef3aaff1dd7f602648a581f8525438e6a16",
-    "installer_url":  "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.20/voice-setup.exe",
-    "installer_sha256":  "bb15e53287a7b98b5cb0a3f0c4664a690b8b1ad35c764831da485f4bb5625f50",
-    "notes":  [
-                  "CI и релиз на своём сборщике voice-pc: без очереди и с тёплой папкой сборки",
-                  "Версия 0.1.20: своё лицо — янтарь только за голосом, мини-волна, строка связи словами, шрифт Golos Text",
-                  "Дизайн: мини-волна, строка связи словами, шрифт Golos Text",
-                  "Дизайн: раскладка звонка с демкой, «+» у списка друзей, пульс входящего",
-                  "Дизайн: янтарь только за голосом, плоский список друзей, баннеры только в профиле"
-              ],
-    "published":  "2026-11-11T21:47:17Z"
+  "version": "0.1.21",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.21/voice-windows-x64.zip",
+  "sha256": "3aec4c6970e5f0d2ee859c2c433d910bb49810cb4b98e9e0f3f52e008db10d75",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.21/voice-setup.exe",
+  "installer_sha256": "65d12e3526b769460b2e7fb20da9214626c80d4d620da7afe7bc6c9e42063ba6",
+  "notes": [
+    "Сборщик: последовательная сборка и PowerShell 7 для релиза",
+    "Версия 0.1.21: заявки в боковой панели и GIF во время звонка"
+  ],
+  "published": "2026-11-12T14:35:02Z"
 }
