@@ -1,13 +1,13 @@
 {
-  "version": "0.1.25",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.25/voice-windows-x64.zip",
-  "sha256": "af8273eb5af02508cb0698cf9286a0b3d4fe4f2dfac1380040dcd8df706d4fe8",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.25/voice-setup.exe",
-  "installer_sha256": "1e6d8453bb25d4aae02b47df53ba9c79d0833dee9e9cb19c9da050704326fd4a",
+  "version": "0.1.26",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.26/voice-windows-x64.zip",
+  "sha256": "2093596c7ba3e3b2513a82eebc77768fe3da5156ac71fbf274e59861ac6700be",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.26/voice-setup.exe",
+  "installer_sha256": "d4a82d4e0e1f5a9941d4d6e6e83ffc3bcfc4f341ca5f6507aa83354ddb53c7ba",
   "notes": [
-    "Версия 0.1.25: приватные группы и обновление иконок Windows",
-    "Приватные голосовые группы с регистрацией по приглашению",
-    "Обновление иконок ярлыков Windows после установки"
+    "Версия 0.1.26: исправления и удобное управление группами",
+    "Make group actions discoverable and prevent accidental hangups",
+    "Fix group controls, popup sizing and live row updates"
   ],
-  "published": "2026-11-13T20:55:12Z"
+  "published": "2026-11-13T21:50:01Z"
 }
