@@ -1,12 +1,13 @@
 {
-  "version": "0.1.24",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.24/voice-windows-x64.zip",
-  "sha256": "4298c04f31e445c0ba48ddb7f7993d8d4b7574d88417236cbea1af2ae80d1604",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.24/voice-setup.exe",
-  "installer_sha256": "014bd1530bbdfab625f9c31ed78c2b60f15c9332835f27f671134af9d1c2aab0",
+  "version": "0.1.25",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.25/voice-windows-x64.zip",
+  "sha256": "af8273eb5af02508cb0698cf9286a0b3d4fe4f2dfac1380040dcd8df706d4fe8",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.25/voice-setup.exe",
+  "installer_sha256": "1e6d8453bb25d4aae02b47df53ba9c79d0833dee9e9cb19c9da050704326fd4a",
   "notes": [
-    "Версия 0.1.24: новая иконка и вступление при запуске",
-    "Новая иконка Voice и короткое вступление при запуске"
+    "Версия 0.1.25: приватные группы и обновление иконок Windows",
+    "Приватные голосовые группы с регистрацией по приглашению",
+    "Обновление иконок ярлыков Windows после установки"
   ],
-  "published": "2026-11-13T16:32:36Z"
+  "published": "2026-11-13T20:55:12Z"
 }
