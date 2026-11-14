@@ -1,13 +1,11 @@
 {
-  "version": "0.1.26",
-  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.26/voice-windows-x64.zip",
-  "sha256": "2093596c7ba3e3b2513a82eebc77768fe3da5156ac71fbf274e59861ac6700be",
-  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.26/voice-setup.exe",
-  "installer_sha256": "d4a82d4e0e1f5a9941d4d6e6e83ffc3bcfc4f341ca5f6507aa83354ddb53c7ba",
+  "version": "0.1.27",
+  "url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.27/voice-windows-x64.zip",
+  "sha256": "cab1d7c42df544945c6515c583eec218c91137a80cdf89425ad88ee75d0e95ce",
+  "installer_url": "https://github.com/Fiveloss/voice-releases/releases/download/v0.1.27/voice-setup.exe",
+  "installer_sha256": "f1e85c55a3974df73ecf4566063f95c675cf7f3583f9a9aa9f955c9b08f649c5",
   "notes": [
-    "Версия 0.1.26: исправления и удобное управление группами",
-    "Make group actions discoverable and prevent accidental hangups",
-    "Fix group controls, popup sizing and live row updates"
+    "Версия 0.1.27: общая диагностика и отчёты по звонкам"
   ],
-  "published": "2026-11-13T21:50:01Z"
+  "published": "2026-11-14T13:00:45Z"
 }
